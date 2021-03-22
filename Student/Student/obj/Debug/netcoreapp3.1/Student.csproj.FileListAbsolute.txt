@@ -1,0 +1,12 @@
+D:\OOP2 Final\Student\Student\bin\Debug\netcoreapp3.1\Student.exe
+D:\OOP2 Final\Student\Student\bin\Debug\netcoreapp3.1\Student.deps.json
+D:\OOP2 Final\Student\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.json
+D:\OOP2 Final\Student\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.dev.json
+D:\OOP2 Final\Student\Student\bin\Debug\netcoreapp3.1\Student.dll
+D:\OOP2 Final\Student\Student\bin\Debug\netcoreapp3.1\Student.pdb
+D:\OOP2 Final\Student\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfoInputs.cache
+D:\OOP2 Final\Student\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfo.cs
+D:\OOP2 Final\Student\Student\obj\Debug\netcoreapp3.1\Student.csproj.CoreCompileInputs.cache
+D:\OOP2 Final\Student\Student\obj\Debug\netcoreapp3.1\Student.dll
+D:\OOP2 Final\Student\Student\obj\Debug\netcoreapp3.1\Student.pdb
+D:\OOP2 Final\Student\Student\obj\Debug\netcoreapp3.1\Student.genruntimeconfig.cache
