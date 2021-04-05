@@ -1,0 +1,10 @@
+D:\OOP2 Final\WinBasicForm\WinBasicForm\bin\Debug\WinBasicForm.exe.config
+D:\OOP2 Final\WinBasicForm\WinBasicForm\bin\Debug\WinBasicForm.exe
+D:\OOP2 Final\WinBasicForm\WinBasicForm\bin\Debug\WinBasicForm.pdb
+D:\OOP2 Final\WinBasicForm\WinBasicForm\obj\Debug\WinBasicForm.csprojAssemblyReference.cache
+D:\OOP2 Final\WinBasicForm\WinBasicForm\obj\Debug\WinBasicForm.Form1.resources
+D:\OOP2 Final\WinBasicForm\WinBasicForm\obj\Debug\WinBasicForm.Properties.Resources.resources
+D:\OOP2 Final\WinBasicForm\WinBasicForm\obj\Debug\WinBasicForm.csproj.GenerateResource.cache
+D:\OOP2 Final\WinBasicForm\WinBasicForm\obj\Debug\WinBasicForm.csproj.CoreCompileInputs.cache
+D:\OOP2 Final\WinBasicForm\WinBasicForm\obj\Debug\WinBasicForm.exe
+D:\OOP2 Final\WinBasicForm\WinBasicForm\obj\Debug\WinBasicForm.pdb
