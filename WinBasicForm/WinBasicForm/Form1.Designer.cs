@@ -331,6 +331,7 @@ namespace WinBasicForm
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(534, 20);
             this.textBox6.TabIndex = 21;
+            this.textBox6.UseSystemPasswordChar = true;
             // 
             // label13
             // 
@@ -512,7 +513,7 @@ namespace WinBasicForm
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.ClientSize = new System.Drawing.Size(1135, 850);
+            this.ClientSize = new System.Drawing.Size(1137, 850);
             this.Controls.Add(this.label22);
             this.Controls.Add(this.comboBox7);
             this.Controls.Add(this.textBox11);
